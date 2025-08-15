@@ -1,0 +1,12 @@
+[
+  {
+    "scene": 1,
+    "file": "scene_001.mp3",
+    "text": "Hello, this is scene one."
+  },
+  {
+    "scene": 2,
+    "file": "scene_002.mp3",
+    "text": "Now we are in scene two."
+  }
+]
